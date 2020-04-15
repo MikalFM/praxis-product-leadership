@@ -2,8 +2,8 @@
 title: Home
 banner:
   title: Praxis
-  subtitle: "Praxis Product Leadership  \nCohort-based Continuous Learning  \nFor
-    Product Teams and Product Managers"
+  subtitle: "Praxis Product Leadership  \nCohort-based Product Leadership Program
+    \ \nFor Product Teams and Product Managers"
   actions:
   - label: Learn More
     url: "/generic"
