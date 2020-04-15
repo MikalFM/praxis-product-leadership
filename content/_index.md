@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: Praxis
-  subtitle: "Praxis Product Leadership  \nCohort-based Product Leadership Program
+  subtitle: "Praxis Product Leadership  \nCohort-based Product Leadership P![](/images/AdobeStock_197246714.jpeg)rogram
     \ \nFor Product Teams and Product Managers"
   actions:
   - label: Learn More
