@@ -11,6 +11,7 @@ fields:
     label: accent1
     config:
       color_format: Hex
+    default: "#000000"
   - type: color
     name: accent2
     label: accent2
