@@ -2,11 +2,10 @@
 title: Home
 banner:
   title: Praxis
-  subtitle: "Praxis Product Leadership  \nCohort-based Continuous Learning for Product
-    Teams and Product Managers  \nWe emphasize: Self-Efficacy, Stakeholder Empathy,
-    and Strong Fundamentals"
+  subtitle: "Praxis Product Leadership  \nCohort-based Continuous Learning  \nFor
+    Product Teams and Product Managers"
   actions:
-  - label: Activate
+  - label: Learn More
     url: "/generic"
     is_scrolly: false
     is_primary: true
